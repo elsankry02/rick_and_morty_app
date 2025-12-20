@@ -1,6 +1,7 @@
+# 🛸 Rick and Morty App
+
 ![Image](https://github.com/user-attachments/assets/6af41b1f-234f-4165-b5d6-93fe76ecdc63)
 
-# 🛸 Rick and Morty App
 
 # 🚀 Features
 * **Character List:** Fetches and displays a full list of characters from the Rick and Morty API.
@@ -18,3 +19,4 @@
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/elsankry02/rick_and_morty_app.git](https://github.com/elsankry02/rick_and_morty_app.git)
+
