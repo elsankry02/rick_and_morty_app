@@ -15,8 +15,4 @@
 * **Architecture:** MVVM / Layered Architecture.
 * **Model Parsing:** Manual JSON serialization to Dart models.
 
-# 📦 Installation
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/elsankry02/rick_and_morty_app.git](https://github.com/elsankry02/rick_and_morty_app.git)
 
