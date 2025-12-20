@@ -1,30 +1,20 @@
-# Rick and Morty App 👾
-
 ![Image](https://github.com/user-attachments/assets/6af41b1f-234f-4165-b5d6-93fe76ecdc63)
 
-##  🌀 Rick and Morty App Overview
+# 🛸 Rick and Morty App
 
-A Flutter-based mobile application designed to provide users with detailed information about characters from the popular animated series "Rick and Morty." The app connects to the Rick and Morty API to fetch character data, including names, species, gender, status, and location. Built with clean architecture principles, it offers a responsive and dynamic UI.
+# 🚀 Features
+* **Character List:** Fetches and displays a full list of characters from the Rick and Morty API.
+* **Character Details:** Shows detailed information for each character (Status, Species, Gender, etc.).
+* **Search Functionality:** Allows users to search for specific characters by name.
+* **Clean UI:** Simple and clean interface using Material Design widgets.
 
-## 🛠️ Core Technologies
+# 🛠️ Tech Stack & Tools
+* **State Management:** Flutter Bloc / Cubit (to manage data flow and UI states).
+* **Networking:** Dio (for fetching data from the Rick and Morty REST API).
+* **Architecture:** MVVM / Layered Architecture.
+* **Model Parsing:** Manual JSON serialization to Dart models.
 
-**Flutter & Dart:** The app is developed using Flutter, ensuring a smooth and responsive cross-platform experience.
-
-**MVVM Architecture:** Adopts the Model-View-ViewModel pattern to separate concerns and enhance code readability.
-
-**Riverpod:** Employs Riverpod for state management, offering a robust and testable solution.
-
-**AutoRoute:** Utilizes AutoRoute for type-safe and declarative routing, simplifying navigation.
-
-## 🔍 Key Features
-
-**Character Information:** Displays detailed information about characters from "Rick and Morty," including names, species, gender, status, and location.
-
-**Dynamic UI:** Features a responsive and dynamic user interface that adapts to various device sizes and orientations.
-
-**API Integration:** Connects to the Rick and Morty API to fetch and display real-time character data.
-
-**Search Functionality:** Allows users to search for characters by name.
-
-**Responsive Design:** Ensures optimal display across various device sizes and orientations.
-
+# 📦 Installation
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/elsankry02/rick_and_morty_app.git](https://github.com/elsankry02/rick_and_morty_app.git)
